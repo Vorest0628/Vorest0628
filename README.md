@@ -1,7 +1,11 @@
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vorest0628)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Vorest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vorest0628)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My used languages/frameworks](https://skillicons.dev/icons?i=cpp,css,html,js,py,ts,md,express,vue,flask,nodejs)](https://skillicons.dev)
+
+[![My skills](https://skillicons.dev/icons?i=bash,docker,git,mongodb,obsidian,redis,vscode)](https://skillicons.dev)
 <!--
 **Vorest0628/Vorest0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
